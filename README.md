@@ -1,2 +1,2 @@
 # LearningGit
-Brendon Kearney. This is my first repo. Preview it.
+Brendon Kearney. This is my first repo. Preview it!
